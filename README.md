@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust, GO**
 
-- 👯 I’m looking to collaborate on **Cloud Native**
+- 👯 I’m looking to collaborate on **Cloud Native L**
 
 - 🤝 I’m looking for help with **Public Speaking**
 
