@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Anubyka**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust, GO**
 
 - 👯 I’m looking to collaborate on **Cloud Native**
 
